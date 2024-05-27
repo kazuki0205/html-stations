@@ -1,11 +1,16 @@
 body{
     background-color: #C4C4C4;
+    width: 100vw;
+    height: 100vh;
 }
 header{
     background-color: #ffffff;
+    width: 100vw;
+    height: 3rem;
 }
 .card{
     width: 300px;
+    margin: 5rem;
     padding: 1rem;
     background-color: #fff;
 }
@@ -24,5 +29,7 @@ header{
 }
 footer{
     background-color: #ffffff;
+    width: 100vw;
+    height: 3rem;
 }
 
