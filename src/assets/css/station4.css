@@ -1,11 +1,8 @@
-body{
-    background-color: #C4C4C4;
-}
 header{
     background-color: #ffffff;
 }
-footer{
-    background-color: #ffffff;
+body{
+    background-color: #C4C4C4;
 }
 .card{
     padding: 1rem;
@@ -23,5 +20,8 @@ footer{
 .card__description{
     color: #282828;
     font-size: 12px;
+}
+footer{
+    background-color: #ffffff;
 }
 
