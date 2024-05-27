@@ -1,8 +1,8 @@
-header{
-    background-color: #ffffff;
-}
 body{
     background-color: #C4C4C4;
+}
+header{
+    background-color: #ffffff;
 }
 .card{
     width: 300px;
